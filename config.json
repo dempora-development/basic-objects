@@ -1,0 +1,19 @@
+{
+    "puppeteer": {
+        "browser": {
+            "options": {
+                "preset": "Windows",
+                "chromePath": "/usr/bin/chromium-browser"
+            },
+            "headless": false
+        },
+        "page": {
+            "navigationTimeout": 300000,
+            "viewport": {
+                "width": 1280,
+                "height": 720
+            },
+            "screenshots": "./src/structure/png"
+        }
+    }
+}
