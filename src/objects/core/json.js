@@ -4,7 +4,7 @@ const path = require('path');
 const json = {
     data: Object,
     path: {
-        directory: './src/structure/json',
+        directory: '../api/src/structure/json',
         file: String
     },
     jsons: Object,

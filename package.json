@@ -1,6 +1,6 @@
 {
   "name": "basic-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dieses NPM NodeJS Package vereinfacht den Workflow durch diverse Funktionen erheblich.",
   "main": "index.js",
   "scripts": {
